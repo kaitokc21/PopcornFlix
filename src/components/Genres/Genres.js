@@ -57,6 +57,7 @@ const Genres = ({
         <Chip
           style={{ margin: 2 }}
           label={genre.name}
+          color="secondary"
           key={genre.id}
           clickable
           size="small"
