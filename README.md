@@ -1,4 +1,4 @@
-                                                               React - project
+                                                  React - project
 In this project i have used the movie database api to show movies and Tv series by trending.
 
 Discover different movies and Tv Series.
